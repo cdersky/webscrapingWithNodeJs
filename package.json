@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/cdersky/webscrapingWithNodeJs/issues"
   },
+  "scripts": {
+    "example1": "casperjs example1.js",
+    "example2": "casperjs example2.js",
+    "example3": "casperjs example3.js",
+    "example4": "casperjs example4.js",
+    "example5": "casperjs example5.js"
+  },
   "homepage": "https://github.com/cdersky/webscrapingWithNodeJs#readme"
 }
