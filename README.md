@@ -1,4 +1,4 @@
-# webscrapingWithNodeJs
+#webscrapingWithNodeJs
 
 Talk For [GDG San Francisco DevFest 2016](https://devfest-sf-9588c.firebaseapp.com/)
 
@@ -10,18 +10,17 @@ Talk For [GDG San Francisco DevFest 2016](https://devfest-sf-9588c.firebaseapp.c
 
 [slides](http://slides.com/cdersky/webscraping#/)
 
-# Install
+#Install
 
-```
-# clone the repo
-$ git clone git@github.com:cdersky/webscrapingWithNodeJs.git
 
-# switch to new directory
-$ cd webscrapingWithNodeJs
+1.clone the repo
+```$ git clone git@github.com:cdersky/webscrapingWithNodeJs.git```
 
-# install dependencies
-$ npm install
+2.switch to new directory
+```$ cd webscrapingWithNodeJs```
 
-# run an examples
-$ npm run example1
-```
+3.install dependencies
+```$ npm install```
+
+4.run an examples
+```$ npm run example1```
